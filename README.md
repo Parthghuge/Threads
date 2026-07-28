@@ -1,6 +1,6 @@
-# Threads Clone
+# Threads
 
-A full-stack Threads Clone built using **Next.js**, **TypeScript**, **MongoDB**, **Tailwind CSS**, and **Clerk Authentication**.
+A full-stack Threads built using **Next.js**, **TypeScript**, **MongoDB**, **Tailwind CSS**, and **Clerk Authentication**.
 
 I built this project to understand how modern social media platforms work and to improve my full-stack development skills. It gave me hands-on experience with authentication, database integration, routing, reusable components, and responsive UI design.
 
