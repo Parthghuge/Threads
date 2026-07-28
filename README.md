@@ -1,36 +1,120 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Threads Clone
 
-## Getting Started
+A full-stack Threads Clone built using **Next.js**, **TypeScript**, **MongoDB**, **Tailwind CSS**, and **Clerk Authentication**.
 
-First, run the development server:
+I built this project to understand how modern social media platforms work and to improve my full-stack development skills. It gave me hands-on experience with authentication, database integration, routing, reusable components, and responsive UI design.
+
+---
+
+## 🚀 Features
+
+- User Authentication with Clerk
+- Create, edit, and delete threads
+- Comment on threads
+- User profile pages
+- Search users
+- Responsive design
+- Clean and modern interface
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- MongoDB
+- Clerk Authentication
+
+---
+
+## 📂 Project Structure
+
+```
+app/
+components/
+constants/
+lib/
+public/
+middleware.ts
+package.json
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Parthghuge/Threads.git
+```
+
+Move into the project directory:
+
+```bash
+cd Threads
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Create a `.env.local` file and add the required environment variables.
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 📚 What I Learned
 
-To learn more about Next.js, take a look at the following resources:
+Building this project helped me learn:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Building full-stack applications with Next.js
+- Authentication using Clerk
+- Connecting MongoDB with a web application
+- Creating reusable React components
+- Using the App Router in Next.js
+- Managing application state
+- Writing clean and organized code
+- Building responsive user interfaces with Tailwind CSS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🔮 Future Improvements
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Some features I plan to add in the future:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Real-time notifications
+- Image uploads
+- Like and bookmark functionality
+- Direct messaging
+- Dark mode
+- Better search and filtering
+
+---
+
+## 👨‍💻 Author
+
+**Parth Ghuge**
+
+GitHub: https://github.com/Parthghuge
+
+---
+
+## 📌 About This Project
+
+I built this project to strengthen my understanding of full-stack web development by recreating a modern social media platform. While developing it, I focused on writing clean code, building reusable components, and learning how different technologies work together to create a complete web application.
